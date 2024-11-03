@@ -1,8 +1,8 @@
 Rencana nmz resolusi :
-- Konsisten belajar programming setiap hari
 - Belajar Git
 - Belajar Dasar Pemrograman JavaScript di Dicoding
 - Belajar Back-End Pemula dengan JavaScript
 - Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)
-                            
+- Belajar Laravel
+- Belajar VPS
                             
