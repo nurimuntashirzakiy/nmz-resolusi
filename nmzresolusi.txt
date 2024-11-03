@@ -1,0 +1,4 @@
+Rencana nmz resolusi :
+- Konsisten belajar programming setiap hari
+- Belajar Git
+- Belajar Javascript Dasar di Dicoding
